@@ -1,0 +1,19 @@
+header{
+    background-color: #FFF9F4;
+}
+
+.bg-snekers{
+    background-color: #F1F1F1;
+}
+
+#txt1{
+    color: #FA804C;
+}
+
+#txt2{
+    color: #363958;
+}
+
+.buy-now-btn{
+    background-image: linear-gradient(to bottom right, #3D4FF3, #3543BC);
+}
